@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Global Climate Summit Reaches Historic Agreement",
+    "description": "World leaders have unanimously agreed on a new framework to combat climate change, setting ambitious targets for carbon reduction by 2030.",
+    "content": "In a landmark decision, representatives from over 190 countries have signed the 'Global Climate Pact 2025'. The agreement outlines strict measures to reduce greenhouse gas emissions, transition to renewable energy sources, and provide financial aid to developing nations affected by climate change. 'This is a turning point for our planet,' said the UN Secretary-General. The summit, held in Geneva, saw intense negotiations over the past two weeks. Key points include a ban on new coal plants, a commitment to net-zero deforestation, and a global carbon tax framework. Experts believe this could limit global warming to 1.5 degrees Celsius if implemented effectively.",
+    "imageUrl": "https://images.unsplash.com/photo-1621274790572-7c32596bc67f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "category": "World",
+    "publishedAt": "2025-11-28T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Tech Giant Unveils Revolutionary AI Assistant",
+    "description": "The new AI model promises to transform daily productivity with human-like understanding and reasoning capabilities.",
+    "content": "Silicon Valley buzzes with excitement as the latest AI assistant, 'Nexus', is revealed. Unlike its predecessors, Nexus can understand context, emotion, and complex instructions with unprecedented accuracy. It integrates seamlessly with smart home devices, enterprise software, and creative tools. During the demo, Nexus wrote a novel, debugged a complex codebase, and planned a travel itinerary in seconds. Privacy advocates, however, have raised concerns about data security, which the company claims to have addressed with on-device processing.",
+    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "category": "Technology",
+    "publishedAt": "2025-11-28T09:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Local Team Wins Championship After 20 Years",
+    "description": "The city erupts in celebration as the underdogs secure a dramatic victory in the final minutes of the game.",
+    "content": "It was a night to remember. The City Hawks defeated the reigning champions, the Titans, with a score of 3-2. The winning goal was scored in stoppage time by rookie striker Leo Martinez. Fans flooded the streets, waving flags and singing anthems. 'We waited two decades for this moment,' said a tearful fan. The victory parade is scheduled for tomorrow, with the mayor declaring a public holiday.",
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "category": "Sports",
+    "publishedAt": "2025-11-27T20:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "New Mars Mission Launches Successfully",
+    "description": "SpaceX's Starship takes off on a mission to establish the first permanent human settlement on the Red Planet.",
+    "content": "The Starship rocket lifted off from Boca Chica, Texas, carrying a crew of 12 astronauts and tons of supplies. The mission, dubbed 'Mars Alpha', aims to set up a base that will support future colonization efforts. The journey will take six months. 'We are making humanity multi-planetary,' tweeted Elon Musk shortly after the launch. The crew includes scientists, engineers, and a botanist who will attempt to grow food in Martian soil.",
+    "imageUrl": "https://images.unsplash.com/photo-1541873676-a18131494184?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "category": "Science",
+    "publishedAt": "2025-11-26T14:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Stock Markets Hit Record Highs",
+    "description": "Optimism over economic recovery and new trade deals fuels a global market rally.",
+    "content": "Major indices across the world closed at all-time highs today. The S&P 500, FTSE 100, and Nikkei 225 all saw significant gains. Analysts attribute the surge to strong corporate earnings and the recent trade agreement between the US and EU. 'The economy is firing on all cylinders,' said a leading financial analyst. However, some warn of a potential bubble and advise caution.",
+    "imageUrl": "https://images.unsplash.com/photo-1611974765270-ca1258634369?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "category": "Business",
+    "publishedAt": "2025-11-28T16:00:00Z"
+  }
+]
